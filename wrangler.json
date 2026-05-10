@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-madnessarum",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "24e6d173-c487-4133-9680-7948491ad0e9",
+			"database_name": "d1-madnessarum"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
